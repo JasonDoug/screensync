@@ -1,0 +1,7 @@
+{
+  "name": "ScreenSight AI - Desktop Vision Companion & Tutorial Guide",
+  "description": "Live desktop screen capture with vision-capable Gemini AI for instant troubleshooting, visual guidance, and custom step-by-step tutorials.",
+  "requestFramePermissions": ["display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
